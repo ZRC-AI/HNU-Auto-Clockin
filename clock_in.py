@@ -44,7 +44,7 @@ def main():
         "RealProvince":"湖南省",
         "RealCity":"长沙市",
         "RealCounty":"岳麓区",
-        "RealAddress":"宿舍",
+        "RealAddress":"校外住宿",
         "BackState":1,
         "MorningTemp":"36.5",
         "NightTemp":"36.5",
